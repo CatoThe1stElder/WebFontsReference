@@ -1,6 +1,60 @@
 @font-face{
-  font-family: YOUR FONT NAME;
+  font-family: Adobe Caslon Antique Bold Italic;
   font-style: normal;
   font-weight: 400;
-  src: url(YOUR RAW.GITHACK URL) ;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Antique Bold Italic.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Antique Bold;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Antique Bold.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Antique Italic;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Antique Italic.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Antique Regular;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Antique Regular.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Pro Bold Italic;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Pro Bold Italic.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Pro Bold;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Pro Bold.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Pro Italic;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Pro Italic.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Pro Regular;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Pro Regular.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Pro Semibold Italic;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Pro Semibold Italic.ttf) ;
+}
+@font-face{
+  font-family: Adobe Caslon Pro Semibold;
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://rawcdn.githack.com/CatoThe1stElder/WebFontsReference/master/Adobe Caslon Pro Semibold.ttf) ;
 }
